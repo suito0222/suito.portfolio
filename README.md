@@ -22,7 +22,7 @@
 - 開発期間：2週間
 - デジタルアーツ東京DATフェスタに提出
 
-##[re:verser](https://90.gigafile.nu/0505-be5f14f35432c59cb08e6c31bc95ffbd4)
+[re:verser](https://90.gigafile.nu/0505-be5f14f35432c59cb08e6c31bc95ffbd4)
 - 約一年かけてチームで作成しました。
 - 私はBGM、SEを選んだりアイテムに入れてゲーム内でならせるようにしました。
 
